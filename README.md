@@ -32,5 +32,7 @@ Git (GitHub, GitLab), Composer, ORM (Doctrine), PHPUnit, Behat, Blackfire
 ````
 
 ### LANGUE
+```markdown
 Anglais (B2)
+````
 
