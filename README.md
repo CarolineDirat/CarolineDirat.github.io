@@ -1,11 +1,11 @@
 
-Ma reconversion dans le développement web est une révélation, mes envies : concevoir, coder, apprendre !
+#### Ma reconversion dans le développement web est une révélation, mes envies : concevoir, coder, apprendre !
 
 
 ## Compétences
 
 ### DEV WEB FullStack
-
+```markdown
 Rédaction & analyse de spécifications
 **Design / solution technique / multi-tiers**
 Conception **UML / Modèle de données**
@@ -13,7 +13,7 @@ Conception **UML / Modèle de données**
 Installation (BDD MySQL, serveur Apache)
 **Tests** et **Qualité** de code + **Intégration Continue** (GitHub Action, Gitlab CI)
 **Clean Code**
-
+````
 Connaissances **SEO**
 Training / **Transfert de compétences**
 **Connaissances Scientifiques** (sciences de la matière et Mathématiques)
