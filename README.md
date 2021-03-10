@@ -19,7 +19,7 @@ Training / **Transfert de compétences**
 **Connaissances Scientifiques** (sciences de la matière et Mathématiques)
 ````
 
-### LANGAGES
+## LANGAGES
 ```markdown
 **PHP** - Symfony 3, 4 et 5, Twig
 **JavaScriptS** - Jquery
@@ -27,12 +27,12 @@ Training / **Transfert de compétences**
 **HTML, CSS** – Bootstrap
 ````
 
-### OUTILS
+## OUTILS
 ```markdown
 Git (GitHub, GitLab), Composer, ORM (Doctrine), PHPUnit, Behat, Blackfire
 ````
 
-### LANGUE
+## LANGUE
 ```markdown
 Anglais (B2)
 ````
