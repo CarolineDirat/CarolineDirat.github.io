@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/CarolineDirat/CarolineDirat.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Ma reconversion dans le développement web est une révélation, mes envies : concevoir, coder, apprendre !
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Compétences
 
-### Jekyll Themes
+### DEV WEB FullStack
+```markdown
+Rédaction & analyse de spécifications
+**Design / solution technique / multi-tiers**
+Conception **UML / Modèle de données**
+**API** REST, **ORM** (Doctrine)
+Installation (BDD MySQL, serveur Apache)
+**Tests** et **Qualité** de code + **Intégration Continue** (GitHub Action, Gitlab CI)
+**Clean Code**
+```
+Connaissances **SEO**
+Training / **Transfert de compétences**
+**Connaissances Scientifiques** (sciences de la matière et Mathématiques)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CarolineDirat/CarolineDirat.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### LANGAGES
+```markdown
+**PHP** - Symfony 3, 4 et 5, Twig
+**JavaScriptS** - Jquery
+**SQL** - Postgre/MySQL 
+**HTML, CSS** – Bootstrap
+````
 
-### Support or Contact
+### OUTILS
+```markdown
+Git (GitHub, GitLab), Composer, ORM (Doctrine), PHPUnit, Behat, Blackfire
+````
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### LANGUE
+Anglais (B2)
+
+## Expériences
+
+## Formation
