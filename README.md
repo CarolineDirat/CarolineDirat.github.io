@@ -34,6 +34,3 @@ Git (GitHub, GitLab), Composer, ORM (Doctrine), PHPUnit, Behat, Blackfire
 ### LANGUE
 Anglais (B2)
 
-## Expériences
-
-## Formation
