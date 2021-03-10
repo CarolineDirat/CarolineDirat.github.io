@@ -1,9 +1,9 @@
 
 #### Ma reconversion dans le développement web est une révélation, mes envies : concevoir, coder, apprendre !
 
-***
 
-## Compétences
+
+## COMPETENCES
 
 ### DEV WEB FullStack
 ```markdown
